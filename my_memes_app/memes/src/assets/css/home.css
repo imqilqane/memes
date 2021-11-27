@@ -1,0 +1,23 @@
+.content {
+  text-align: center;
+}
+.show,
+.tell {
+  width: 50%;
+}
+
+.meme {
+  background-color: #f3f3f3;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+.meme .edit-meme-form {
+  padding-bottom: 10px;
+}
+.meme .edit-meme-form input {
+  width: 100%;
+  margin-bottom: 5px;
+  font-size: 12px;
+  padding: 7px;
+}

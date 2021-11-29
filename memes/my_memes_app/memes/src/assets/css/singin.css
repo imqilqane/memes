@@ -1,0 +1,22 @@
+.singin {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.login {
+  width: 100%;
+  margin: 10px;
+  background: black;
+  color: white;
+}
+
+.row input {
+  width: 100%;
+  margin: 7px;
+  padding: 7px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 0.1px solid;
+  font-size: 13px;
+}
